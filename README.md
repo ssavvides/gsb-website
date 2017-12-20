@@ -4,12 +4,16 @@
 
 ## TODO
 
+Survival page
 
-- travel grants
-	- recipients
-- survival page
-- add links to home page buttons
-- change icons per subject
+HOME
+	- add links to home page buttons
+	- move emails next to image
+	- GSB Survival guide next to joining GSB
+	
+Sidebar
+	- change icons per subject
+	
 - cleanup
 - send to GSB for review
 - talk to Dan to set it up
