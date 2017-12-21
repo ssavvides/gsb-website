@@ -4,11 +4,11 @@
 
 ## TODO
 
-Survival page
+Survival guide
+	- pdf version
+	
 
 HOME
-	- add links to home page buttons
-	- move emails next to image
 	- GSB Survival guide next to joining GSB
 	
 Sidebar
