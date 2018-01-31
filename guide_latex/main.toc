@@ -2,4 +2,6 @@
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}
 \contentsline {section}{\numberline {2}Housing}{1}{section.2}
 \contentsline {section}{\numberline {3}Utilities}{2}{section.3}
-\contentsline {section}{\numberline {4}Acknowledgment}{2}{section.4}
+\contentsline {section}{\numberline {4}Books}{2}{section.4}
+\contentsline {section}{\numberline {5}Parking}{3}{section.5}
+\contentsline {section}{\numberline {6}Acknowledgment}{3}{section.6}
