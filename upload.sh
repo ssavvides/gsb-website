@@ -2,7 +2,7 @@
 
 # create archive
 rm archives/gsb.zip
-zip -r  archives/gsb.zip . -x *.git* -x *.settings* -x LICENSE -x README.md
+zip -r  archives/gsb.zip . -x *.git* -x *.settings* -x .project -x .DS_Store -x LICENSE -x README.md
 
 # upload to git repo
 git add files/
