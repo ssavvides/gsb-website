@@ -1,3 +1,3 @@
 # gsb-website
 
-... to replace the current gsb website
+The official Purdue University Computer Science Graduate Student Board (GSB) website
